@@ -723,6 +723,13 @@ p {
 	.wrapper {
 		width: 90%;
 	}
+	.header_icons {
+		flex-basis: 13%;
+		justify-content: center;
+	}
+	.header_iconsCart {
+		margin-right: 20px;
+	}
 	.swiper-container {
 		width:60%;
 		height: 450px;
@@ -940,6 +947,10 @@ p {
 		order: 2;
 		flex-basis: 30%;
 		justify-content: center;
+	}
+	.header_icons {
+		flex-basis: 80%;
+		margin-top: 40px;
 	}
 	.header_iconsSearch {
 		margin-left: 20px;
