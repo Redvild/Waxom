@@ -148,7 +148,7 @@ p {
 }
 .header_search {
 	width: 120px;
-	border-radius: 3px;
+	border-radius: 1px;
 	border: none;
 	padding-left: 5px;
 	margin-left: 10px;
@@ -732,7 +732,7 @@ p {
 	}
 	.swiper-container {
 		width:60%;
-		height: 450px;
+		height: 400px;
 	}
 	.sectionAbout_image img {
 		width: 200px;
