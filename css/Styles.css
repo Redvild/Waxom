@@ -1115,5 +1115,7 @@ p {
 	}
 }
 @media all and (max-width:300px) {
-
+	.sectionFooter_itemPosts hr, .sectionFooter_itemTwitter hr {
+	width: 100%;
+}
 }
