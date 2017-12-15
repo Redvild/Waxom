@@ -105,7 +105,7 @@ p {
 	padding: 3% 0 13%;
 }
 .header_logo {
-	background: url(../images/Waxom_logo.svg) no-repeat;
+	background: url(../images/Waxom_logo.png) no-repeat;
 	flex-basis: 186px;
 	height: 56px;
 	background-size: 186px 56px;
@@ -622,7 +622,7 @@ p {
 	width:260px;
 }
 .sectionFooter_logo {
-	background: url(../images/Waxom_logo.svg) no-repeat;
+	background: url(../images/Waxom_logo.png) no-repeat;
 	background-size: 185px 56px;
 	width:185px;
 	height: 56px;
